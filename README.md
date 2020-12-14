@@ -1,3 +1,3 @@
 # MyBlog
 
-Blog stworzony przy użyciu framework'a CodeIgniter
+Blog stworzony przy użyciu frameworka CodeIgniter
