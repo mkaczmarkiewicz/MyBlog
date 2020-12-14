@@ -2,7 +2,7 @@
 	<head>
 		<title>MyBlog</title>
 		<link rel="stylesheet" href="https://bootswatch.com/4/flatly/bootstrap.min.css">
-		<link rel="stylesheet" href="<?php echo base_url(); ?>/assets/css/style.css">
+		<link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/style.css">
 		<script src="https://cdn.ckeditor.com/ckeditor5/24.0.0/classic/ckeditor.js"></script>
 	</head>
 
