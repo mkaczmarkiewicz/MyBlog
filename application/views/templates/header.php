@@ -15,10 +15,12 @@
 	              <ul class="navbar-nav mr-auto">
 	                <li><a class="nav-link" href="<?php echo base_url(); ?>">Home</a></li>
 	                <li><a class="nav-link" href="<?php echo base_url(); ?>about">About</a></li>
-	                <li><a class="nav-link" href="<?php echo base_url(); ?>posts">Blog</a></li>                      
+	                <li><a class="nav-link" href="<?php echo base_url(); ?>posts">Blog</a></li>
+	                <li><a class="nav-link" href="<?php echo base_url(); ?>categories/index">Categories</a></li>                          
 	              </ul>
 	              	<ul class="nav navbar-nav navbar-right">
-	              		<li><a class="nav-link" href="<?php echo base_url(); ?>posts/create">Create</a></li>
+	              		<li><a class="nav-link" href="<?php echo base_url(); ?>posts/create">Add Post</a></li>
+	              		<li><a class="nav-link" href="<?php echo base_url(); ?>categories/create">Add Category</a></li>
 	              	</ul>
 	            </div>
 	          </nav>
