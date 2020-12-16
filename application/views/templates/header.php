@@ -10,12 +10,10 @@
 		<div class="container">
 			<div class="bs-component">
 	          <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-	            <a class="navbar-brand" href="<?php echo base_url(); ?>">MyBlog</a>
+	            <a class="navbar-brand" href="<?php echo base_url(); ?>posts">MyBlog</a>
 	            <div class="collapse navbar-collapse" id="navbarColor01">
 	              <ul class="navbar-nav mr-auto">
-	                <li><a class="nav-link" href="<?php echo base_url(); ?>">Home</a></li>
-	                <li><a class="nav-link" href="<?php echo base_url(); ?>about">About</a></li>
-	                <li><a class="nav-link" href="<?php echo base_url(); ?>posts">Blog</a></li>
+	                <li><a class="nav-link" href="<?php echo base_url(); ?>posts">Posts</a></li>
 	                <li><a class="nav-link" href="<?php echo base_url(); ?>categories/index">Categories</a></li>                          
 	              </ul>
 	              	<ul class="nav navbar-nav navbar-right">
